@@ -1,0 +1,50 @@
+<b><size=25>MOCOM PTY LTD TRADING AS VIEWA Privacy Policy</size></b>
+
+<b><size=25>How is my confidential information protected?</size></b>
+
+We employ 256-Bit SSL encrypted secure transmission channels when you send us the following types of personal data during the survey process:
+
+•	Primary personal data (such as name and contact details)
+•	Other personal data (such as location, telephone and demographic data)
+•	We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:
+	o	Unauthorised access
+	o	Improper use or disclosure
+	o	Unauthorised modification
+	o	Unlawful destruction or accidental loss
+
+All our employees, contractors and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
+
+<b><size=25>How is personal information collected?</size></b>
+
+Mocom Pty Ltd trading as Viewa collects personal information as provided by participating subscribers directly to Mocom Pty Ltd trading as Viewa or to participating website/companies that may include email address, name, telephone numbers, date of birth, occupations and areas of interest. Data is collected at the time of opt–in by active participation of the end user. Interests are added in some cases where they can be reasonably assumed from the style of content of the participating website at which the user has subscribed.
+
+<b><size=25>What personal information is collected?</size></b>
+
+Upon registration, Mocom Pty Ltd trading as Viewa collects name, email address, phone numbers and interest categories as provided by the end user. However, when the end user points their device and clicks to scan, an object, we will collect and store information about you. The legal ground for processing information for this purpose is based on However, when you point your device and click to scan, an object, we will collect and store information about you. The legal ground for processing information for this purpose is based on Mocom Pty Ltd trading as Viewa’s legitimate interest in serving you the correct content as part of an AR experience and continuously improving our Services.
+
+This includes digital images of the people or items the user has scanned, GPS location, IP address and Advertising ID. We will never share that information with anyone outside of the Mocom Pty Ltd trading as Viewa Group
+
+It also includes information about how you have interacted with our Services and the scans, such as the time and frequency of the interactions, dwell time and the devices and operating systems used to access the scans, so we can understand more about the user journey.
+If the scan is connected to a client of ours, all information about interactions are combined and shared with them, so that they can better understand the performance of the scans.
+
+Sometimes, the experience will be designed to request more Personal Data from you, usually in relation to promotional activity. In each case, the purpose of the data collection and processing will be explained to you beforehand and you will have the option of not providing the additional information.
+The above information is also received by Mocom Pty Ltd trading as Viewa when you access a scan through third party apps, via an API. Those third parties may decide to collect and send to us additional Personal Data; you can read more about that in their privacy policies.
+
+Mocom Pty Ltd trading as Viewa collects IP address for validation and diagnostic purposes. We may also use cookies to personalise or simplify your user experience. Responses to Mocom Pty Ltd trading as Viewa campaigns such as positive opens and click-throughs may also be collected in order to better target future mailings.
+
+<b><size=25>Will (Mocom Pty Ltd trading as Viewa) release my personal information to third parties?</size></b>
+
+Data is used only for the purpose of providing relevant marketing material to subscribers and will only be disclosed to Mocom Pty Ltd trading as Viewa and/or Mocom Pty Ltd trading as Viewa staff and/or Mocom Pty Ltd trading as Viewa advertisers and/or agents for that purpose. Information is aggregated and provided as group statistics for advertisers to make purchasing decisions and analyse results from campaigns.
+
+Outside of the above, third parties will not be given access to an individual’s personal subscriber data unless ordered by order of Australian Federal or State authorities. Personal information may on occasion be transferred to relevant agents for the purposes of de–duplication, correction or suppression.
+
+<b><size=25>Children</size></b>
+Mocom Pty Ltd trading as Viewa does not knowingly collect Personal Data from children under 15. If we need to rely on consent as legal grounds for processing Personal Data and your country requires consent from a parent, we may require your parent’s consent before we collect and use that information.
+
+<b><size=25>Camera</size></b>
+
+Viewa uses camera permission from user to scan images from print media to show content on screen
+
+<b><size=25>Who owns (Mocom Pty Ltd trading as Viewa) data?</size></b>
+
+Data collected from the Mocom Pty Ltd trading as Viewa app and websites remain the property of Mocom Pty Ltd trading as Viewa.

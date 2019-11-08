@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BottomBarAtlasNew
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eab0bf501c4334e17a8ddb5cc2ede6f8, type: 3}
+    totalSpriteSurfaceArea: 313550
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 566c4f406d36d4547995fefe95a9fea9, type: 3}
+  - {fileID: 21300000, guid: da82e5b06d1774c1aa0038eaadd23268, type: 3}
+  - {fileID: 21300000, guid: 316c17c0cec444862964f7c6e186d128, type: 3}
+  - {fileID: 21300000, guid: e0062cd1358d348c486bd4d9e03616a7, type: 3}
+  - {fileID: 21300000, guid: e23f70323244a472098514381de6cd5e, type: 3}
+  - {fileID: 21300000, guid: 75ea7952410da47e3ba0fb135b8b6fd8, type: 3}
+  - {fileID: 21300000, guid: fb2a2b72bd4824baaa6a18c4e1d9659b, type: 3}
+  - {fileID: 21300000, guid: 7a7a2f04f4579458a84e984cec3b2824, type: 3}
+  - {fileID: 21300000, guid: 57fa7905fea7b4059929a4db5b508f6b, type: 3}
+  - {fileID: 21300000, guid: b2de7485cff304081b21552a9f69f7c1, type: 3}
+  - {fileID: 21300000, guid: ef9b7d066e34342d985a9674a06b0146, type: 3}
+  - {fileID: 21300000, guid: 408a52572a1954a6582b4320a07ae549, type: 3}
+  - {fileID: 21300000, guid: 046357974862a4680b7531bf937175e5, type: 3}
+  - {fileID: 21300000, guid: 513914c71fc724456af09578d4cb34ff, type: 3}
+  - {fileID: 21300000, guid: 662347e7e59824a16bd11f45ed9c3d67, type: 3}
+  - {fileID: 21300000, guid: 03ce5fd8839774c19b54a58cf0953a13, type: 3}
+  - {fileID: 21300000, guid: fbbc1cf88fe9043468335b5d486b0ee8, type: 3}
+  - {fileID: 21300000, guid: 11b0ff49948cc4200884ee5e5734285c, type: 3}
+  - {fileID: 21300000, guid: 11cfcd1a6776347bfa161434133f069f, type: 3}
+  - {fileID: 21300000, guid: 176c516a2162a4a7f931ce643058912f, type: 3}
+  - {fileID: 21300000, guid: 6991eafa998e544a9adf3308e70e324e, type: 3}
+  - {fileID: 21300000, guid: f5c1b20b41d2d472b881965aaf942864, type: 3}
+  - {fileID: 21300000, guid: d5a6a01b9e5d543b3b18ee82038b3b17, type: 3}
+  - {fileID: 21300000, guid: cf47af7c88d7e48a0a8f3262764ed800, type: 3}
+  - {fileID: 21300000, guid: 91e9fdcc709a54a388d90986d4660cd1, type: 3}
+  - {fileID: 21300000, guid: 45cad0ed760a146458a2ab51d4e22ac1, type: 3}
+  - {fileID: 21300000, guid: 7b61480e74fb1442ba75538bb4bd88d0, type: 3}
+  - {fileID: 21300000, guid: e22f401ed459146348249690593b707b, type: 3}
+  - {fileID: 21300000, guid: 615f5a5e76edd4ba8a409d0e6aeb54d8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Hub_Love_Inactive
+  - TopNav_BackArrow_Black
+  - TopNav_BackArrow_White
+  - Menu_AboutViewa
+  - BtmNav_Scan_White
+  - Hub_Love_Active
+  - Menu_Help
+  - Form_Invalid
+  - Menu_Profile
+  - TopNav_LoveItem
+  - Recent
+  - Form_ShowPassword
+  - Form_HidePassword
+  - BtmNav_Hub_White
+  - ViewaCube
+  - Cancel
+  - Popup_Black
+  - Popup_White
+  - Menu_EditProfile
+  - Menu_Region
+  - Form_Alert
+  - BtmNav_Loved_White
+  - V_logo_white
+  - Hub_ClientLogo
+  - BtmNav_Menu_White
+  - Hub_ClientLogo_Outline
+  - Menu_RemoveInterest
+  - BtmNav_Share_White
+  - Form_Okay
+  m_Tag: BottomBarAtlasNew
+  m_IsVariant: 0

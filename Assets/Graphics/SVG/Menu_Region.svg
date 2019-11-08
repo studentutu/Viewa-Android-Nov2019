@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Menu_Region" transform="translate(-1344.5 -925.5)" opacity="0.4">
+    <g id="Group_295" data-name="Group 295" transform="translate(-20 7)" opacity="0.5">
+      <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(1371 925)" fill="none" stroke="#000" stroke-width="1">
+        <ellipse cx="9.5" cy="9.5" rx="9.5" ry="9.5" stroke="none"/>
+        <ellipse cx="9.5" cy="9.5" rx="9" ry="9" fill="none"/>
+      </g>
+      <g id="Group_213" data-name="Group 213" transform="translate(1372.111 925.885)">
+        <path id="Path_63" data-name="Path 63" d="M15.084,19.539c-1.5-1.291-2.584-4.664-2.584-8.62s1.086-7.329,2.584-8.62" transform="translate(-8.37 -2.3)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_64" data-name="Path 64" d="M26.6,2.3c1.5,1.291,2.584,4.664,2.584,8.62S28.1,18.249,26.6,19.539" transform="translate(-16.646 -2.3)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_19" data-name="Line 19" x1="16.668" transform="translate(0 8.412)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_20" data-name="Line 20" x1="14.047" transform="translate(1.311 3.831)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_21" data-name="Line 21" x1="14.796" transform="translate(0.936 12.992)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_22" data-name="Line 22" y1="17.09" transform="translate(8.334 0.075)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="15" cy="15" r="15" transform="translate(1345.5 926.5)" fill="none" stroke="#25252d" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

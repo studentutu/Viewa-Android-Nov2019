@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--DONT MODIFY HERE. AUTO GENERATED DEPENDENCIES FROM NPAndroidLibraryDependencies.cs.-->
+<dependencies>
+	<androidPackages>
+		<!--Dependency added for using Remote Notifications-->
+		<androidPackage
+			spec="com.google.firebase:firebase-messaging:20.0+" />
+		<!--Dependency added for using Support Libraries-->
+		<androidPackage
+			spec="androidx.legacy:legacy-support-v4:1.0.0+" />
+		<androidPackage
+			spec="androidx.exifinterface:exifinterface:1.1.0+" />
+	</androidPackages>
+</dependencies>

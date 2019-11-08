@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49562678509",
+    "firebase_url": "https://viewa-44371674.firebaseio.com",
+    "project_id": "viewa-44371674",
+    "storage_bucket": "viewa-44371674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49562678509:android:346f02b9ffaf45eb",
+        "android_client_info": {
+          "package_name": "au.com.mocom.acp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49562678509-me7lh3qljbbqs2np3rb7gj2oecse19ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.com.mocom.acp",
+            "certificate_hash": "98b937c87520ab4b77e6199cc11ccd58bd1fd987"
+          }
+        },
+        {
+          "client_id": "49562678509-fj7isjouq6497vs805ajo698vo8rr9u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Z3OTKEQk0mZvNDK6z33DbzMuFSbfh6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49562678509-fj7isjouq6497vs805ajo698vo8rr9u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49562678509-phajfkaa2dmroc1v3ri10njikhas1ohd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.com.acpmagazines.viewa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

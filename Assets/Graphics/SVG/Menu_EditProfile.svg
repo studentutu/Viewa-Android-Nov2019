@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Menu_EditProfile" transform="translate(-209 -125)">
+    <g id="Group_253" data-name="Group 253" transform="translate(0 -13)">
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="17" cy="17" r="17" transform="translate(209 138)" fill="#343743"/>
+    </g>
+    <g id="Group_302" data-name="Group 302" transform="translate(209.656 150.634) rotate(-45)">
+      <path id="Path_126" data-name="Path 126" d="M28.183,7.749H8.607L5.8,5.624,8.607,3.5H28.183Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_103" data-name="Line 103" y2="4.249" transform="translate(24.162 3.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_104" data-name="Line 104" y2="4.249" transform="translate(9.776 3.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
