@@ -12,8 +12,9 @@ public class ScanPanel : PanelBase {
 	public float speed = 0.1f;
 	public Text progressStatusText;
 
-	//Button variables
-	public Button LovedButton;
+    //Button variables
+    public Button ShareButton;
+    public Button LovedButton;
 	public Button backButton;
 	public GameObject scanTextPanel;
 	public Text history_Title;
