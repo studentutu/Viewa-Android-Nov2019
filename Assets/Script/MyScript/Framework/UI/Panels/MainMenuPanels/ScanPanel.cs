@@ -5,10 +5,11 @@ using OTPL.UI;
 using UnityEngine.UI;
 using System.Text;
 using UnityEngine.Networking;
+using Vuforia;
 
 public class ScanPanel : PanelBase {
 
-	public Image progressImage;
+	public UnityEngine.UI.Image progressImage;
 	public float speed = 0.1f;
 	public Text progressStatusText;
 
@@ -18,9 +19,9 @@ public class ScanPanel : PanelBase {
 	public Button backButton;
 	public GameObject scanTextPanel;
 	public Text history_Title;
-	public Image history_Icon;
+	public UnityEngine.UI.Image history_Icon;
 	public GameObject heartPrefab;
-    [SerializeField] Image backgroundImage;
+    [SerializeField] UnityEngine.UI.Image backgroundImage;
     [SerializeField] Sprite originalSprite;
     [SerializeField] Sprite newSprite;
 
@@ -160,10 +161,12 @@ public class ScanPanel : PanelBase {
 //			break;
 		case "ShareButton":
                 //Jeetesh - Below line is to test the Android plugin test.
-                PluginTest.CallPluginMethod();
-//			Debug.Log ("Content Button -" + a_button.name);
-//			AppManager.Instnace.socialSharingScript.ShareDynamicContentOnSocialPlatform ();
-			break;
+                CameraDevice.Instance.SetFlashTorchMode(true);
+                
+                //PluginTest.CallPluginMethod();
+                //			Debug.Log ("Content Button -" + a_button.name);
+                //			AppManager.Instnace.socialSharingScript.ShareDynamicContentOnSocialPlatform ();
+                break;
 		case "LovedButton":
 			Debug.Log ("Button selected -" + a_button.name);
 			AppManager.Instnace.PlayButtonSoundWithVibration ();

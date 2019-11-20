@@ -320,6 +320,7 @@ public class AppManager : Singleton<AppManager>
     {
         if (acpTrackingManager != null)
         {
+            VuforiaRuntimeUtilities.SetAllowedFusionProviders(FusionProviderType.VUFORIA_VISION_ONLY);
 #if UNITY_ANDROID || UNITY_IOS
             acpTrackingManager.GetComponent<VuforiaBehaviour>().enabled = true;
 #endif

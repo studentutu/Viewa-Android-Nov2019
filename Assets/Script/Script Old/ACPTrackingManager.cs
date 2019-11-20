@@ -1466,7 +1466,7 @@ public class ACPTrackingManager : MonoBehaviour, IObjectRecoEventHandler
 	}
 
     public void EnableVuforia() {
-
+        VuforiaRuntimeUtilities.SetAllowedFusionProviders(FusionProviderType.VUFORIA_VISION_ONLY);
 #if UNITY_ANDROID || UNITY_IOS
         GetComponent<VuforiaBehaviour>().enabled = true;
 #endif
